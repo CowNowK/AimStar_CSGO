@@ -21,4 +21,4 @@
 # 效果图
 ![image](https://github.com/CowNowK/AimStar/blob/main/ingame.png)
 
-### Last update: 2023-6-28
+### Last update: 2023-6-8
