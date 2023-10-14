@@ -1,4 +1,5 @@
 ## 支持CS2的AimStar已经发布！
+> [AimStar External for CS2](https://github.com/CowNowK/AimStarCS2)
 > 因为易语言不支持64位程序，所以该版本使用cpp进行编写
 
 ***
