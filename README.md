@@ -11,7 +11,7 @@
 
 * BOX ESP
 * Health ESP
-* Glow
+* Glow 
 * No Flash
 * Aimbot
 ***
