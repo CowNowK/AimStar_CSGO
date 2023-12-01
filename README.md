@@ -1,5 +1,5 @@
 ## 支持CS2的AimStar已经发布！
-> [AimStar External for CS2](https://github.com/CowNowK/AimStarCS2)
+> [AimStar External for CS2](https://github.com/CowNowK/AimStar)
 > 
 > Due to the lack of support for 64-bit programs in EPL, this version is written in C++.
 
